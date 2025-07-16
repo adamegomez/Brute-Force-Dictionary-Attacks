@@ -95,13 +95,15 @@ Vulnerable web app: Mutillidae on Metasploitable VM
 Login form URL:
 http://192.168.121.131/mutillidae/index.php?page=login.php
 
-###🔐 Step-by-Step
+### 🔐 Step-by-Step
 1. Generate a password list with Crunch
-bash
+``` bash
 Copy
 Edit
 crunch 9 9 -t admin@@@@ > password.lst
 Generates combinations like admin0000 to admin9999
+
+```
 
 We inserted the real password adminpass near the top for demo purposes
 
