@@ -96,7 +96,7 @@ Login form URL:
 http://192.168.121.131/mutillidae/index.php?page=login.php
 
 ### 🔐 Step-by-Step
-1. Generate a password list with Crunch
+### 1. Generate a password list with Crunch
 ``` bash
 Copy
 Edit
@@ -119,13 +119,16 @@ Correct password adminpass was successfully identified
 ### 3. Verify Login
 Visited the login URL in a browser
 
+``` 
 Used:
 
 Username: admin
 
 Password: adminpass
 
-✅ Login was successful
+```
+
+### ✅ Login was successful
 
 ### 🔚 Conclusion
 Brute Force attacks try all possible combinations; Dictionary attacks are faster using pre-built lists.
