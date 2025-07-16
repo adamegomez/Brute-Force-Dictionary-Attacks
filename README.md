@@ -6,6 +6,14 @@
 
 This project explores the execution and impact of **brute force** and **dictionary attacks**, two common password-cracking techniques used in cybersecurity. Used real penetration testing tools to simulate these attacks and highlight the risks of weak passwords and poor system configuration.
 
+---
+
+## 🎥 Video Demonstration
+
+**YouTube**: [Brute Force & Dictionary Attack](https://youtu.be/GBG-5aOF89g)
+
+---
+
 Focus was on:
 - Using **John the Ripper** to crack hashed passwords
 - Employing **Crunch** to generate password lists
